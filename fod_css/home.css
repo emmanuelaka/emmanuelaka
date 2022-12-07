@@ -145,3 +145,10 @@ footer {
 .home {
 	border: 1px solid white;
 }
+.audio{
+	height: fit-content;
+	width: fit-content;
+	background-color: forestgreen;
+	margin: 50%;
+	border-radius: 5%;
+}
