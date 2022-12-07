@@ -149,6 +149,7 @@ footer {
 	height: fit-content;
 	width: fit-content;
 	background-color: forestgreen;
-	margin: 50%;
+	display: flex;
+	flex-direction: row;
 	border-radius: 5%;
 }
